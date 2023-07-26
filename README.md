@@ -1,4 +1,4 @@
-# int-ca-publish-to-zenn-firebase-terraform
+# zenn-firebase-terraform
 ## 公開先ブログタイトル
 - [Terraform で Firebase プロジェクトを構築してみる](https://zenn.dev/cloud_ace/articles/b791cce386d523)
 
